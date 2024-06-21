@@ -1,7 +1,3 @@
-Sure, I can help you create a comprehensive README file for your Spring Boot Maven project with Elasticsearch. Here's a template to get you started:
-
----
-
 # Auto Suggest API
 
 ## Overview
